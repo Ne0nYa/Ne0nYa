@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ne0nYa
-- 👀 I’m interested in data science and making games
-- 🌱 I’m currently learning Math, C#, Python
+- 👀 I’m interested in backend, data science and making games
+- 🌱 I’m currently learning Java, Math, C#, Python
 - 💞️ I’m looking to collaborate on Learning Unity
 - 📫 How to reach me: averkovivan@gmail.com
 
