@@ -4,5 +4,5 @@
 🔭 Student at SFEDU '27. <br />
 🤔 I'm currently learning how to code and design data-intensive applications on Java. <br />
 📫 How to reach me: <br />
-📲 Telegram - @NeonYa9 <br />
+📲 Telegram - https://t.me/NeonYa9 <br />
 📨 Mail - averkovivan@gmail.com <br />
